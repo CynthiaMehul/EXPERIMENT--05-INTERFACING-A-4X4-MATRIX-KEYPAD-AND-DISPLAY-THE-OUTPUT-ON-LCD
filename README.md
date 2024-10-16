@@ -352,7 +352,8 @@ void key()
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/user-attachments/assets/91269528-8f9d-47a5-b1a2-fa5df67cead5)
+![image](https://github.com/user-attachments/assets/d4f45156-b77e-44e6-9f6b-72f5de9ef252)
+
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
